@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "809518663889",
+    "firebase_url": "https://btl-iot-9c8bc-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "btl-iot-9c8bc",
+    "storage_bucket": "btl-iot-9c8bc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809518663889:android:076d0a7162dc6b4bf41df0",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmSMIuQZp3sgmNCZAMUQRfjquBIn4u1z8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809518663889:android:cd2311b6eb0a3e29f41df0",
+        "android_client_info": {
+          "package_name": "com.example.quanlithietbi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmSMIuQZp3sgmNCZAMUQRfjquBIn4u1z8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

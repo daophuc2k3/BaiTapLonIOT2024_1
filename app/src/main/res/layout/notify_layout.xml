@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:minHeight="64dp"
+    android:layout_marginHorizontal="16dp"
+    android:padding="6dp"
+    android:background="@drawable/shape_bg_black_corner_10"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tvTItle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cảnh báo"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:textColor="@color/white"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/tvNotifyContent"
+        android:layout_width="match_parent"
+        android:layout_below="@+id/tvTItle"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:text="Công suất thiết bị vượt ngưỡng an toàn!"
+        android:textColor="@color/white"
+        android:textSize="16dp" />
+
+
+</RelativeLayout>
